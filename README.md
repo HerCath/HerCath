@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HerCath
-- 👀 I’m interested in programming, HPC, algorithm, logic stuff (even games), math
+- 👀 I’m interested in programming, HPC, heavily parallel and scalable algorithm, logic stuff (even games), math
 - 🌱 I’m currently learning whatever i can (i already know more than 10 different programming languages)
-- 💞️ I’m looking to collaborate on projects mainly focused on bigdata, highly optimized code (in java, C/C++, python, etc.)
+- 💞️ I’m looking to collaborate on projects mainly focused on bigdata, highly optimized code (in java, C/C++, ASM, JIT, python, etc.)
 - 📫 How to reach me ? well, via github
 
 <!---
